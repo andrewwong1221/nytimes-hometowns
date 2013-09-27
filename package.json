@@ -1,0 +1,22 @@
+{
+    "name": "nytimes-hometowns",
+    "version": "1.0.0",
+    "description": "filters images from nytimes lens 'My Hometown'",
+    "author": "Andrew D. Wong <andrewwong1221@gmail.com>",
+    "scripts": {
+        "start": "node ./bin/hometowns.js"
+    },
+    "repository": {
+        "type": "gid",
+        "url": "https://github.com/andrewwong1221/nytimes-hometowns"
+    },
+    "dependencies" : {
+        "underscore" : "*"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.5"
+    }
+}
+
+
